@@ -1,12 +1,12 @@
 # node
 v12.18.0
 
-# develop
+# dev
 ```text
 $ gulp
 ```
 
-# production
+# build
 ```text
 $ gulp build
 ```
