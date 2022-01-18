@@ -4,7 +4,7 @@ module.exports = {
 	mode: "production",
 	entry: "./src/js/app.js",
 	output: {
-		path: `${__dirname}/dest/js`,
+		path: `${__dirname}/build/js`,
 		filename: "app.js"
 	},
 	optimization: {
